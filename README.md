@@ -16,8 +16,8 @@
 	
 </div>
 <hr>
-<a href="https://github.com/ghdwhd0302" align="left">
-	<img align="center" style="height:180px;width:50%" src="https://github-readme-stats.vercel.app/api?username=ghdwhd0302&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
-	<img align="center" style="height:180px;width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdwhd0302&layout=compact&theme=nord&hide_border=true" />
+<a href="https://github.com/ghdwhd0302" align="center">
+	<img align="center" style="height:180px;width:49%" src="https://github-readme-stats.vercel.app/api?username=ghdwhd0302&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" />
+	<img align="center" style="height:180px;width:49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghdwhd0302&layout=compact&theme=nord&hide_border=true" />
 </a>
 
